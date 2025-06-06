@@ -46,7 +46,7 @@
 
 ### 1. 📥 Download
 
-Grab the latest `.exe` from the [Releases](https://github.com/qidemoto/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution-/releases) tab.
+Grab the latest `.exe` from the [Releases](https://github.com/qidemoto/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution/releases) tab.
 
 ### 2. ▶️ Run
 
@@ -83,7 +83,7 @@ Launch Roblox and enjoy uninterrupted gameplay.
 
 ## 📸 Screenshots
 
-![Programm appearance](https://github.com/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution-/blob/main/programm_view.png)
+![Programm appearance](https://github.com/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution/blob/main/programm_view.png)
 
 ---
 
@@ -98,7 +98,7 @@ Use at your own discretion.
 
 ## 📬 Contact
 
-Feel free to open an [Issue](https://github.com/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution-/issues) for:
+Feel free to open an [Issue](https://github.com/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution/issues) for:
 
 - Suggestions
 - Bug reports
