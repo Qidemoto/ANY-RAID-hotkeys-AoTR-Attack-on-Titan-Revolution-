@@ -46,7 +46,7 @@
 
 ### 1. 📥 Download
 
-Grab the latest `.exe` from the [file](https://github.com/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution/blob/1.0.0.1/Roblox%20auto%20hotkeys.exe) tab.
+Grab the latest `.exe` from the [file](https://github.com/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution/blob/main/Roblox%20auto%20hotkeys.exe) tab.
 
 ### 2. ▶️ Run
 
