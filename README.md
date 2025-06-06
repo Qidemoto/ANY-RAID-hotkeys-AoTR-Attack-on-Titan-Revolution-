@@ -46,7 +46,7 @@
 
 ### 1. 📥 Download
 
-Grab the latest `.exe` from the [exe](https://github.com/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution/edit/main/) tab.
+Grab the latest `.exe` from the [exe](https://github.com/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution/blob/main/) tab.
 
 ### 2. ▶️ Run
 
