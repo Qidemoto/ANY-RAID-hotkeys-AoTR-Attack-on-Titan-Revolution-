@@ -98,7 +98,7 @@ Use at your own discretion.
 
 ## 📬 Contact
 
-Feel free to open an [Issue](https://github.com/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution-/issues) or [Discussion](https://github.com/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution-/discussions) for:
+Feel free to open an [Issue](https://github.com/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution-/issues) for:
 
 - Suggestions
 - Bug reports
