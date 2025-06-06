@@ -86,7 +86,7 @@ Launch Roblox and enjoy uninterrupted gameplay.
 
 ## 📸 Screenshots
 
-![Programm appearance](https://github.com/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution-/programm_view.png)
+![Programm appearance](https://github.com/Qidemoto/ANY-RAID-hotkeys-AoTR-Attack-on-Titan-Revolution-/blob/main/programm_view.png)
 
 ---
 
